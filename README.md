@@ -10,20 +10,22 @@
 
 # List of current plugins to our server
 
-Essentials - Lots of standard commands. 
+These are in the smae plugin folder but they are not part of this repo and excluded using .gitignore. 
 
-Geyser & Floodgate - Allows Bedrock plasyers to join. 
+* Essentials - Lots of standard commands. 
 
-Multiverse Core - Allows the set up of other worlds within the server. 
+* Geyser & Floodgate - Allows Bedrock plasyers to join. 
 
-Multiverse Inventories -  Controls the carry over (or not) of invesntories between worlds. Ie stop people bringing stuff from creative to survival. 
+* Multiverse Core - Allows the set up of other worlds within the server. 
 
-Mulitverse Portals - Allows creation of portals between worlds.
+* Multiverse Inventories -  Controls the carry over (or not) of invesntories between worlds. Ie stop people bringing stuff from creative to survival. 
 
-Vault - Economy stuff. 
+* Mulitverse Portals - Allows creation of portals between worlds.
 
-WorldEdit - Does what it says. 
+* Vault - Economy stuff. 
 
-WorldGuard - Does what it says. 
+* WorldEdit - Does what it says. 
 
-Dynmap - Webmap of the worlds. 
+* WorldGuard - Does what it says. 
+
+* Dynmap - Webmap of the worlds. 
