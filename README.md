@@ -12,6 +12,8 @@
 
 These are in the smae plugin folder but they are not part of this repo and excluded using .gitignore. 
 
+* DiscordSRV
+
 * Essentials - Lots of standard commands. 
 
 * Geyser & Floodgate - Allows Bedrock plasyers to join. 
